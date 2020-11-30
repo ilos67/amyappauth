@@ -1,0 +1,10 @@
+.vscode
+bin
+obj
+*.db
+appsettings.json
+*.crt
+*.key
+*.png
+
+
